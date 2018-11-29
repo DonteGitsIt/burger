@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+#burger-pic{
+    width:20%;
+    height: 20%
+}
+
+.burger-option{
+    
+    background-color: lightgreen;
+    margin: 15px;
+}
+.burger-eaten{
+    background-color: lightcoral;
+    margin: 15px;
+}
